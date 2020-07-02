@@ -16,7 +16,7 @@ https://github.com/tzutalin/labelImg.git
 
 https://my.oschina.net/u/4337683/blog/4294786
 
-6.按照下面代码 把xml标注转换成kitti的txt格式
+6.按照下面链接里的要求 把xml标注转换成kitti的txt格式，准备TLT的数据集
 
 https://github.com/sangyy/kittiDataSetForTLT.git
 
