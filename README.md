@@ -19,3 +19,5 @@ https://my.oschina.net/u/4337683/blog/4294786
 6.按照下面代码 把xml标注转换成kitti的txt格式
 
 https://github.com/sangyy/kittiDataSetForTLT.git
+
+$ python xml2kitti sample/labels
